@@ -1,1 +1,3 @@
 # Digital-Logic-Design
+
+This repository contatins the programs that I wrote for Digital Logic Design course. Still updating...
