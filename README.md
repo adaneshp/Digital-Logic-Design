@@ -3,8 +3,7 @@
 This repository contatins the programs that I wrote for Digital Logic Design course. Still updating...
 
 ## List of the projects
-- Computer Assignment 0:  
-- Computer Assignment 1:
+- Computer Assignment 1: Switch, Gate, and Expressions in Verilog
 - Computer Assignment 2:
 - Computer Assignment 3:
 - Computer Assignment 4:
